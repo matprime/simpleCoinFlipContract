@@ -8,6 +8,6 @@ The easiest way to get this contract working is to use Superblocks Lab
 https://lab.superblocks.com/
 
 Base for code is from Ivan on Tech Academy and "Smart Contract Programming" course.
-I Have plans to additionally modify it, and will first change random generator for flips in Solidity contract.
+Have plans to additionally modify code in repository and will first change random generator for flips in Solidity contract.
 
 
