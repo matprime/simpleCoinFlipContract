@@ -2,7 +2,7 @@ This Ethereum Solidity smart contract allows you to flip virtual coins and bet a
 based on 50% of randomness for every flip.
 
 In game you bet against contract and if case if you win,
-will contract send back to you reward in Ethereum.
+will contract send you reward in Ethereum to your wallet address.
 
 Package of files in repository also include html, js and css files 
 for simple front end to gambling with contract.
