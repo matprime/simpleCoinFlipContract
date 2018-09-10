@@ -1,4 +1,4 @@
-This Ethereum Solidity contract allows you to flip virtual coins and bet agains contract
+This Ethereum Solidity smart contract allows you to flip virtual coins and bet agains smart contract
 based on 50% of randomness for every flip. 
 
 Package of files in repository also include html, js and css files 
