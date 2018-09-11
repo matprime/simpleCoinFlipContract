@@ -20,6 +20,7 @@ contract Coinflip {
         uint time = block.timestamp;
         uint bet = msg.value;
 
+        //TODO change to some real random generator on Ethereum network
         if(time % 2 == 0) {
             msg.sender.transfer(bet*2);
             lastFlip[msg.sender] = true;
